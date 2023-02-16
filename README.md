@@ -1,2 +1,2 @@
 # textSummarizerGPT
-A model to summarize research paper based on OpenAI's GPT3
+A model to summarize research papers based on OpenAI's GPT3
